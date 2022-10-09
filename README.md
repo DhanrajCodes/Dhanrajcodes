@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Dhanrajcodes/Dhanrajcodes/blob/main/Simple%20Work%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Dhanraj Verma</h1>
-<h3 align="center">A passionate AI & ML , Android and IOS Application Developer from India</h3>
+<h3 align="center">A passionate AI & ML Studennt , Learning Android and IOS Application Developement from India</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/Dhanrajcodes/Dhanrajcodes/blob/main/EHfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajverma&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
