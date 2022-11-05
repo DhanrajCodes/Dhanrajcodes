@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Dhanrajcodes/Dhanrajcodes/blob/main/Simple%20Work%20LinkedIn%20Banner.gif)
+![MasterHead](https://github.com/CodyCodess/Dhanrajcodes/blob/main/Untitled%20design.gif)
 <h1 align="center">Hi 👋, I'm Dhanraj Verma</h1>
 <h3 align="center">A passionate AI & ML Studennt  from India</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/Dhanrajcodes/Dhanrajcodes/blob/main/EHfw.gif">
